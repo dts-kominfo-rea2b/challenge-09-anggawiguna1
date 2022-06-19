@@ -1,4 +1,10 @@
 .App {
   text-align: center;
   display: flex;
+  background-color: rgb(128, 197, 243);
+}
+
+.Container{
+  margin: 0 auto;
+  width: 25%;
 }

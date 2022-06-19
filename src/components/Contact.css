@@ -1,0 +1,26 @@
+.Contact {
+    width: 100%;
+    display: flex;
+    background-color: rgb(29, 153, 235);
+    border-radius: 10px;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+  
+.Img {
+    width: 100px;
+    height: 100px;
+    flex: 0 0 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 20px;
+}
+  
+.Img img {
+    width: 150%;
+    height: 150%;
+}
+
+.Detail{
+    flex-grow: 1;
+}
